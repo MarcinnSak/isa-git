@@ -6,7 +6,11 @@ p {
     font-weight: lighter;
     display: block;
     font-style: italic;
-    color: red;
+    color: hotpink;
+}
+
+h1{
+    font-size: 36px;
 }
 
 body{
